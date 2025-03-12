@@ -8,7 +8,7 @@ This repository contains a Jupyter Notebook that demonstrates how to use the Nai
 - Visualization and evaluation.
 
 ## Dataset
-The dataset used in this project is the Titanic dataset, which can be downloaded from Kaggle: [Titanic Dataset]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/brendan45774/test-file))
+The dataset used in this project is the Titanic dataset, which can be downloaded from Kaggle: [Titanic Dataset](https://www.kaggle.com/datasets/brendan45774/test-file))
 
 ## Requirements
 To run this project, you need to have the following installed:
